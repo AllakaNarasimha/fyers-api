@@ -1,0 +1,2 @@
+redirect_uri,client_id,secret_key,grant_type,response_type,state
+https://127.0.0.1/,PGU0PN7T1X-100,2SWNXYCDPG,authorization_code,code,sample
